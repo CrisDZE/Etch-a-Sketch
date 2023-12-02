@@ -1,5 +1,3 @@
-
-//reparar esto
 const newGrid = document.getElementById('newGrid')
 const mainDiv = document.getElementById('mainDiv')
 
